@@ -1,73 +1,111 @@
 # Hi there, I'm Saad! 💻 
 
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=2500&pause=1000&color=00FF33&width=500&lines=%3E_System.Initialize();;%3E_Initializing+Cyber+Shield...;;%3E_Network+Security+Student;;%3E_Ethical+Hacker+In+Training;" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+
+<!-- Typing SVG Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=940&lines=%3E_+System.Initialize();;%3E_+Establishing+Secure+Connection...;%3E_+Loading+User+Profile%3A+root...;%3E_+Initializing+Cyber+Shield...;%3E_+Access+Granted.+Welcome." alt="Typing SVG" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3&section=header" width="100%"/>
+
+</div>
+
+<pre align="center">
+<code>
+$ whoami
+> Computer Science Student | Network & Cybersecurity Enthusiast
+</code>
+</pre>
 
 ---
 
-### 🚀 System Overview [About Me]
+## `>_` About Me
 
-I am an aspiring **Cybersecurity Specialist** and **Network Engineer** deeply interested in secure systems, low-profile defensive tools, and secure network infrastructures.
+```bash
+root@kali:~$ cat about_me.txt
+```
 
-- ⚡ **Current Mission:** Mastering packet analysis, network design, and defensive operations.
-- 🛠️ **Working On:** Cross-platform security utilities and automated scanning tools.
-- 📖 **Currently Learning:** Cisco CCNA routing/switching protocols and penetration testing methodologies.
-- 🐧 **Preferred OS:** Kali Linux (Main Environment)
-
----
-
-### 🛠️ Tech Stack & Skillset
-
-#### 🌐 Networking & Protocols
-<p align="left">
-  <img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-0052CC?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="TCP/IP" />
-  <img src="https://img.shields.io/badge/Subnetting-00FF33?style=for-the-badge&logo=target&logoColor=black" alt="Subnetting" />
-</p>
-
-#### 🛡️ Cybersecurity & Operating Systems
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Linux_SysAdmin-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nmap-00FF33?style=for-the-badge&logo=security&logoColor=black" alt="Nmap" />
-</p>
-
-#### 💻 Programming Languages & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
-</p>
+- 🎓 Computer Science student with a strong focus on **Networking, Cybersecurity, and System Administration**.
+- 🛡️ Passionate about penetration testing, network defense, and building tools that break (and fix) things responsibly.
+- 🌐 Deep interest in protocol-level networking — routing, subnetting, and packet analysis.
+- 💻 Comfortable across Linux environments, low-level programming, and database-driven applications.
+- 📡 Currently exploring advanced **Nmap scripting**, **network simulation**, and **secure coding practices**.
+- ⚡ Fun fact: `sudo rm -rf boring_projects/`
 
 ---
 
-### 🛡️ Defensive Projects & Focus Areas
-* 🛰️ **3-Tier Network Port Scanner:** Designing low-profile, multi-threaded scanners.
-* 🌐 **Routing & Switching:** Bitwise subnet calculations, routing tables optimization, and packet tracing.
-* 📦 **Console Simulations:** Developing coordinate-based security mechanics and tactical loops.
+## `>_` Tech Arsenal
+
+### 🌐 Networking & Protocols
+![Cisco](https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00FF41?style=for-the-badge&logo=protocols.io&logoColor=black)
+![Subnetting](https://img.shields.io/badge/Subnetting-0d1117?style=for-the-badge&logo=cisco&logoColor=00FF41)
+![Routing](https://img.shields.io/badge/Routing%20%26%20Switching-000000?style=for-the-badge&logo=cisco&logoColor=00FF41)
+
+### 🛡️ Cybersecurity & Operating Systems
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
+![Linux](https://img.shields.io/badge/Linux%20SysAdmin-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
+### 💾 Programming Languages & Databases
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00FF41)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=00FF41)
 
 ---
 
-### 📊 Terminal Analytics [GitHub Stats]
+## `>_` Project Focus
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadkashif049-wq&show_icons=true&theme=matrix&count_private=true" alt="Saad's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadkashif049-wq&layout=compact&theme=matrix" alt="Top Languages" height="180px" />
-</p>
+```bash
+root@kali:~$ ls -la ./projects/
+```
+
+- 🔍 **Multi-Tier Network Scanners** — Custom-built scanning tools for host discovery, port enumeration, and service fingerprinting.
+- 🗺️ **Routing & Network Simulations** — Cisco Packet Tracer / GNS3 based topologies simulating enterprise-grade routing and switching scenarios.
+- 🎮 **Console-Based Games** — Logic-driven C++/C# console applications focused on algorithmic problem solving.
+- 🔐 **Security Automation Scripts** — Bash/Python scripts for automating recon and vulnerability assessment workflows.
+- 🗄️ **Database-Driven Applications** — SQL/MariaDB backed systems with an emphasis on secure data handling.
 
 ---
 
-### 🤝 Secure Handshake [Connect]
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+## `>_` System Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="60%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff" width="90%"/>
+
+</div>
+
+---
+
+## `>_` Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+[![Email](https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=terminal&logoColor=00FF41)](https://your-portfolio-link.com)
+
+</div>
+
+<div align="center">
+
+```bash
+root@kali:~$ echo "Thanks for stopping by. Stay secure."
+> Connection closed by remote host.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3&section=footer" width="100%"/>
+
+</div>
