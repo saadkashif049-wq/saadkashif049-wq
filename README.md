@@ -1,66 +1,62 @@
-# Hi, I'm Saad 👋
+# Hi there, I'm Saad 👋
 
-CS student focused on **networking and cybersecurity** — currently building fundamentals in Linux, TCP/IP, and defensive security, with the goal of moving into penetration testing and network security engineering.
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=1000&color=00FF33&width=500&lines=System.Initialize();;Initializing+Cyber+Shield...;Network+Security+Student;Ethical+Hacker+In+Training;" alt="Typing SVG" />
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EC4B6&width=480&lines=Learning+Linux+internals...;Studying+TCP%2FIP+%26+subnetting...;Practicing+with+Kali+%26+Nmap...;Building+toward+CCNA..." alt="Typing SVG" />
+## About Me
 
----
+Aspiring **Cybersecurity Specialist** and **Network Engineer**, focused on secure systems, defensive tooling, and resilient network infrastructure.
 
-### 🧭 About Me
+- ⚡ **Current focus:** Packet analysis, network design, and defensive operations
+- 🛠️ **Building:** Cross-platform security utilities and automated scanning tools
+- 📖 **Learning:** Cisco CCNA (routing/switching) and penetration testing methodology
+- 🐧 **Main OS:** Kali Linux
 
-- 🎓 Computer Science student
-- 🔐 Learning cybersecurity from the ground up — networking basics, Linux administration, and security fundamentals first, offense/defense tooling next
-- 🐧 Daily driver: Linux (Kali for security practice)
-- 📡 Studying for CCNA — routing, switching, subnetting
-- 🧪 Practicing with tools like Nmap and Wireshark in lab environments
-- 🎯 Long-term goal: network security / penetration testing role
+## Tech Stack
 
-### 🛠️ Currently Learning
+**Networking & Protocols**
 
-| Area | Focus |
-|---|---|
-| Networking | TCP/IP, subnetting, routing & switching (CCNA track) |
-| Linux | System administration, shell scripting, permissions |
-| Security | Nmap, Wireshark, basic pentesting methodology |
-| Programming | C++, C#, SQL |
+<img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/TCP%2FIP-0052CC?style=for-the-badge&logo=ietf&logoColor=white" alt="TCP/IP" />
+<img src="https://img.shields.io/badge/Subnetting-2E8B57?style=for-the-badge&logo=cisco&logoColor=white" alt="Subnetting" />
 
-### 💻 Tech & Tools
+**Cybersecurity & OS**
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF33" alt="Nmap" />
 
 **Languages & Databases**
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
 
-**Networking**
+## Projects & Focus Areas
 
-<img src="https://img.shields.io/badge/TCP%2FIP-0052CC?style=flat-square&logo=ietf&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+- 🛰️ **Multi-Tier Network Scanner** — Low-profile, multi-threaded port scanning tool
+- 🌐 **Routing & Switching** — Subnet calculations, routing table optimization, packet tracing
+- 📦 **Console Simulations** — Coordinate-based logic and tactical game mechanics in C++/C#
 
-**Security & OS**
+## GitHub Stats
 
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=saadkashif049-wq&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="Saad's GitHub Stats" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadkashif049-wq&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" height="165px" />
+</p>
 
-### 📌 Projects
+## Connect
 
-- **Network Port Scanner** — multi-threaded scanner built in C++ for host/port discovery
-- **Subnet Calculator** — tool for practicing IP subnetting and routing table logic
-- *(more labs and projects coming as I progress through CCNA + security fundamentals)*
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=saadkashif049-wq&show_icons=true&theme=default&hide_border=true&count_private=true" height="160px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadkashif049-wq&layout=compact&theme=default&hide_border=true" height="160px" />
-
-### 📫 Connect
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
